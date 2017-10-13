@@ -38,7 +38,7 @@ helpMessage =""" ✞ şέĻғвόţ вч ίάή ✞
 ✞[Gift]
 ✞[Bunuh  ╠@Target╣ ]
 ✞[List gc]
-
+✞[Creator]
 
 ✞My Creator Http://line.me/ti/p/~lianekof
 """
